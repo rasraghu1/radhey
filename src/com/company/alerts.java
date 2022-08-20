@@ -27,7 +27,7 @@ public class alerts {
         r.mouseMove(400,5);// mouse will move 400 x axis and 5 y axis i.e. reached on red cross
         r.mousePress(InputEvent.BUTTON1_DOWN_MASK);// mouse button will be pressed by mouse release method as below
         r.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
-        d.quit();
+        d.quit().nevigate;//ye add kiya h bhai
         d.navigate();// ye add kiya h bhai
 
 }}
