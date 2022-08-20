@@ -28,6 +28,7 @@ public class alerts {
         r.mousePress(InputEvent.BUTTON1_DOWN_MASK);// mouse button will be pressed by mouse release method as below
         r.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
         d.quit().nevigate.hello;//ye add kiya h bhai
+        d.;//ye add kiya h bhai new
         d.navigate();// ye add kiya h bhai
 
 }}
