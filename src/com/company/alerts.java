@@ -30,5 +30,8 @@ public class alerts {
         //d.quit().nevigate.hello;//ye add kiya h bhai
        // d.;//ye add kiya h bhai new
         d.navigate();// ye add kiya h bhai
+        d.quit().demo;..// ye new add kiya h
+        d.click();// ye new add kiya h
+        d.close();// added this as new
 
 }}
