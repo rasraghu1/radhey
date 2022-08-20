@@ -28,5 +28,6 @@ public class alerts {
         r.mousePress(InputEvent.BUTTON1_DOWN_MASK);// mouse button will be pressed by mouse release method as below
         r.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
         d.quit();
+        d.close();// added this as new
 
 }}
